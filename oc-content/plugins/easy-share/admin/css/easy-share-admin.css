@@ -1,0 +1,510 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.ico.ico-48.ico-easy-share-menu {
+    background: rgba(0, 0, 0, 0) url("../svg/es-share-ico.hover.svg") no-repeat  !important;
+    background-size: 45px 45px !important;
+}
+body.compact #sidebar h3 .ico.ico-48.ico-easy-share-menu{
+    background-size: 35px 35px !important;
+}
+.easy-share-admin  a,
+.easy-share-admin  a:hover,
+.easy-share-admin  a:focus{
+  outline: none !important;
+  text-decoration: none !important;
+}
+.easy-share-admin small{
+    font-size: 90%;
+}
+.easy-share-admin .text-center{
+  text-align: center !important;
+}
+.easy-share-admin .text-left{
+  text-align: left !important;
+}
+.easy-share-admin .text-right{
+  text-align: right !important;
+}
+.easy-share-admin .pull-right{
+    float: right;
+}
+.easy-share-admin .pull-left{
+    float: left;
+}
+.easy-share-admin .clear:after {
+    content: " ";
+    display: table;
+    box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+       -o-box-sizing: border-box;
+}
+.es-form-table th{
+    width: 150px;
+}
+.es-layout-option-label{
+    padding:10px;
+    margin:10px !important;
+}
+.easy-share-admin .es-layout-option-label.ui-state-default{
+    background-color: #ffffff !important;
+    background-image: none;
+}
+.easy-share-admin .es-layout-option-label.ui-state-default:hover{
+   box-shadow: 1px 1px 5px #ccc;
+   color: #00bed6;
+}
+.easy-share-admin .es-layout-option-label.ui-state-default{
+    border:transparent;
+}
+.easy-share-admin .ui-state-active{
+    background-color: #00bed6 !important;
+    background-image: none !important;
+    border-color: #00bed6 !important;
+}
+.easy-share-admin .es-layout-option-label.ui-state-active{
+    background-color: #ffffff !important;
+    box-shadow: 1px 1px 5px #ccc;
+    color: #00bed6;
+}
+.easy-share-admin .sp-preview {
+    border: medium none;
+    height: 34px;
+    margin-right: 0;
+    width: 280px;
+}
+.easy-share-admin .sp-replacer {
+    border-radius: 4px;
+    padding: 0;
+}
+.easy-share-admin .sp-dd {
+    line-height: 34px;
+    padding: 0 10px;
+}
+/**
+LAYOUT ICONS
+*/
+.es-layout{
+  font-size: 3.2em;
+  -webkit-transition: all 0.3s;
+   -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+     transition: all 0.3s;
+}
+.es-layout:hover{
+  color: #00bed6;
+
+}
+.easy-share-layout{
+  font-size: 3.2em;
+  -webkit-transition: all 0.3s;
+   -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+     transition: all 0.3s;
+}
+.easy-share-layout:hover{
+  color: #00bed6;
+
+}
+.easy-share-info{
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #d6ffff;
+    box-shadow: 2px 3px 6px rgba(147, 62, 197, 0.1);
+    display: block;
+    line-height: 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding: 10px;
+    
+}
+.easy-share-badge{
+    background:url("../svg/es-share-ico.hover.svg") no-repeat scroll center 0 / 145px auto;
+    background-color: #ffffff;
+    background-color: transparent;
+    color: #78c8e6;
+    position: absolute;
+    right: 30px;
+    top:0px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin: 5px 0 0;
+    padding-top: 160px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 150px;
+}
+.easy-share-admin hr{
+  border-color: #ddd !important;
+}
+.easy-share-admin .table th, .table td{
+  padding: 7px 6px;
+}
+.easy-share-admin .btn-default{
+    background-position: #999;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    color: #333;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    text-shadow: none;
+}
+.easy-share-admin .btn-default:hover{
+    color:#fff;
+    background-color: #bababa;
+}
+.easy-share-admin .img-button input.btn, .img-button button.btn{
+  height: auto;
+  background-image: none;
+  background-color: #f3f3f3;
+}
+.easy-share-admin .btn-file {
+  position: relative;
+  overflow: hidden;
+}
+.easy-share-admin .btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 100px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background: red;
+  cursor: inherit;
+  display: block;
+}
+.easy-share-admin input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
+/*---margins---------------------------------*/
+.easy-share-admin .margin-top{
+    margin-top: 15px;
+}
+.easy-share-admin .margin-bottom{
+    margin-bottom: 15px;
+}
+.easy-share-admin .margin-medium,
+.easy-share-admin .margin-wide,
+.easy-share-admin .margin-thin,
+.easy-share-admin .margin-x-thin {
+  display: inline-block;
+  width: 100%;
+}
+.easy-share-admin .margin-medium {
+  height: 40px;
+}
+.easy-share-admin .margin-wide {
+  height: 50px;
+}
+.easy-share-admin .margin-thin {
+  height: 15px;
+}
+.easy-share-admin .margin-x-thin{
+  height: 7.5px;    
+}
+/*
+*Alert
+*/
+.alert {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 15px;
+}
+.alert h4 {
+    color: inherit;
+    margin-top: 0;
+}
+.alert .alert-link {
+    font-weight: 700;
+}
+.alert > p, .alert > ul {
+    margin-bottom: 0;
+}
+.alert > p + p {
+    margin-top: 5px;
+}
+.alert-dismissable, .alert-dismissible {
+    padding-right: 35px;
+}
+.alert-dismissable .close, .alert-dismissible .close {
+    color: inherit;
+    position: relative;
+    right: -21px;
+    top: -2px;
+}
+.alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+}
+.alert-success hr {
+    border-top-color: #c9e2b3;
+}
+.alert-success .alert-link {
+    color: #2b542c;
+}
+.alert-info {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f;
+}
+.alert-info hr {
+    border-top-color: #a6e1ec;
+}
+.alert-info .alert-link {
+    color: #245269;
+}
+.alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+}
+.alert-warning hr {
+    border-top-color: #f7e1b5;
+}
+.alert-warning .alert-link {
+    color: #66512c;
+}
+.alert-danger {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+}
+.alert-danger hr {
+    border-top-color: #e4b9c0;
+}
+.alert-danger .alert-link {
+    color: #843534;
+}
+.easy-share-admin .info-text {
+    color: #777;
+    min-height: 60px;
+}
+.easy-share-btn{
+    width: 100%;
+    display: inline-block;
+}
+.easy-share-btn a.btn{
+    border-radius: 0px;
+    color:#FFFFFF !important;
+}
+.easy-share-btn form{
+  display: inline-block;
+}
+.easy-share-btn form fieldset{
+  margin: 0;
+  padding:0;
+}
+.easy-share-btn form input{
+
+}
+.easy-share-admin .form-row{
+    margin: 0px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+.easy-share-admin .form-row-style{
+    margin: 0px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+.easy-share-admin .form-row:hover{
+    opacity: 0.6;
+}
+.easy-share-admin .form-row{
+    transition: all 400ms ease 0s; -webkit-transition: all 400ms ease 0s; -moz-transition: all 400ms ease 0s; -ms-transition: all 400ms ease 0s; -o-transition: all 400ms ease 0s;
+}
+.easy-share-admin .select-box-trigger{
+    height: auto;
+    padding:11px 45px 5px 5px;
+    background-image: none;
+    background-color: #ffffff;
+    border-radius: 0px;
+}
+
+.easy-share-admin .select-box select{
+    height: 34px;
+}
+/*
+/*Settings content*/
+.easy-share-admin{
+    width: 100%;
+    display: inline-block;
+}
+.easy-share-content{
+    width: 100%;
+}
+.easy-share-forms-grid{
+    margin-top: 24px;
+}
+.easy-share-forms-grid .ui-widget-content{
+    border:none;
+}
+.easy-share-forms-grid .ui-tabs{
+    padding:0px;
+}
+.easy-share-forms-grid .ui-tabs .ui-tabs-nav{
+    padding:0px;
+    margin-top: -1px;
+    border-bottom: none;
+    background: none;
+    border-top:none;
+    border-right: none;
+    border-left:none;
+    border-radius: 0px;
+}
+.easy-share-forms-grid .ui-tabs .ui-tabs-nav li{
+  border-radius: 0px 0px 0px 0px;
+
+}
+.easy-share-forms-grid .ui-tabs .ui-state-active{
+    background-color: #f3f3f3 !important;
+    background-image: none !important;
+    border-color: #ddd !important;
+}
+.easy-share-forms-grid .ui-state-active,
+.easy-share-forms-grid .ui-state-active a{
+    background-color: #f3f3f3;
+    background:#f3f3f3 none repeat-x scroll 50% 50%;
+}
+.easy-share-forms-grid .ui-tabs .ui-tabs-panel{
+    background-color: #f3f3f3;
+    border:none;
+    border: 1px solid #ddd;
+    border-radius: 0;
+}
+.easy-share-forms-grid .tab-header{
+    font-size: 1.6em;
+    padding: 0.5em 0;
+    border-bottom: solid 1px #ddd;
+}
+.easy-share-forms-grid .tab-header h3{
+    margin: 0px;
+    color:#777;
+    font-weight: bold;
+}
+.easy-share-forms-grid .tab-header p{
+    margin:0px;
+    padding-top:5px;
+    font-size: 16px;
+    color: #999;
+    font-style: italic;
+}
+.easy-share-forms-grid .tab-body .label{
+    text-align: right;
+    margin-right: 10px;
+}
+.easy-share-forms-grid .tab-body .label span{
+    font-size: 1.4em;
+    color:#999;
+}
+.esv-col-cnt{
+    display: inline-block;
+    width: 100%;
+}
+/*---------forms-------------------------*/
+.easy-share-admin .select-box-trigger,
+.easy-share-admin .input-text, 
+.easy-share-admin input[type="text"], 
+.sp-container input[type="text"],
+.easy-share-admin .input-password, 
+.easy-share-admin input[type="password"]{
+    height: auto !important;
+    padding:8px 10px;
+    background-image: none;
+    background-color: #ffffff;
+    border-radius: 0px;
+}
+.easy-share-admin input[type="text"], 
+.easy-share-admin .input-password, 
+.easy-share-admin input[type="password"],
+.easy-share-admin .select-box select{
+    height: 34px;
+}
+.easy-share-admin input.input-small{
+    width: 40px;
+}
+.easy-share-admin textarea{
+    width: 100%;
+    box-sizing: border-box;
+}
+.easy-share-admin .form-actions{
+    margin: 0px;
+    padding: 15px 0px 5px 0;
+    border-top:solid #ddd 1px;
+}
+.easy-share-admin .esv-layout-option-label.ui-state-default{
+    background-color: #ffffff !important;
+    background-image: none;
+}
+.easy-share-admin .esv-layout-option-label.ui-state-default:hover{
+   box-shadow: 1px 1px 5px #ccc;
+   color: #00bed6;
+}
+.easy-share-admin .esv-layout-option-label.ui-state-default{
+    border:transparent;
+}
+.easy-share-admin .ui-state-active{
+    background-color: #00bed6 !important;
+    background-image: none !important;
+    border-color: #00bed6 !important;
+}
+.easy-share-admin .esv-layout-option-label.ui-state-active{
+    background-color: #ffffff !important;
+    box-shadow: 1px 1px 5px #ccc;
+    color: #00bed6;
+}
+.easy-share-admin .form-row{
+    transition: all 400ms ease 0s; -webkit-transition: all 400ms ease 0s; -moz-transition: all 400ms ease 0s; -ms-transition: all 400ms ease 0s; -o-transition: all 400ms ease 0s;
+}
+.easy-share-admin .form-row{
+    margin: 0px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+.easy-share-admin .form-row-style{
+    margin: 0px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.esv-form-table th{
+    width: 150px;
+}
+.esv-layout-option-label{
+    padding:10px;
+    margin:10px !important;
+}
+/*===============================================
+    AVATAR
+=================================================*/
+.easy-share-admin img.easy_share_appearance_small{
+   height: 70px;
+   width: 70px;
+   border-radius: 50%;
+}
+.easy-share-admin img.easy_share_appearance_medium{
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+}
+.easy-share-admin img.easy_share_appearance_large{
+   height: 150px;
+   width: 150px;
+   border-radius: 50%;
+}
+.easy-share-admin .custom-easy-share-admin{
+   background-color: #fff;
+   background-size: cover !important;
+}

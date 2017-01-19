@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easy-share\n"
+"POT-Creation-Date: 2016-10-26 16:50+0300\n"
+"PO-Revision-Date: 2016-10-26 17:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_m;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-easy-share-admin.php:161 admin/class-easy-share-admin.php:171
+msgid "Action was successful"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:47
+msgid ""
+"Thanks for installing! Easy Share 2.0 makes your users want to share on your "
+"site. We hope you enjoy using it. "
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:63
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:65
+msgid "Buy Us Coffee :)"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:67
+msgid "Discover Pixadrop"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:75
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:76
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:77
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:86
+#: admin/partials/easy-share-admin-display.php:273
+msgid "Large Devices"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:86
+msgid "Choose tags to show on Large devices:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:89
+#: admin/partials/easy-share-admin-display.php:157
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:96
+#: admin/partials/easy-share-admin-display.php:164
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:103
+#: admin/partials/easy-share-admin-display.php:171
+msgid "Google Plus"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:110
+#: admin/partials/easy-share-admin-display.php:178
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:117
+#: admin/partials/easy-share-admin-display.php:185
+msgid "Pintrest"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:124
+#: admin/partials/easy-share-admin-display.php:192
+msgid "Stumbleupon"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:131
+#: admin/partials/easy-share-admin-display.php:199
+msgid "Tumblr"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:138
+#: admin/partials/easy-share-admin-display.php:206
+msgid "Email"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:145
+#: admin/partials/easy-share-admin-display.php:213
+msgid "Whatsapp"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:154
+#: admin/partials/easy-share-admin-display.php:295
+msgid "Small Devices"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:154
+msgid "Choose tags to show on small devices:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:226
+msgid "Scroll To Show Offset:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:231
+msgid ""
+"Define the distance from the bottom of the browser at which tags are "
+"revealed whe user scrolls to bottom, minimum is 700:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:238
+msgid "Email Sublect:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:243
+msgid "This will act as the subject of emails sent when users share via email:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:250
+msgid "Email Message:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:255
+msgid ""
+"This message will be attached to the links that the user sends when sharing "
+"via email:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:273
+msgid "Choose layout to show on Large devices:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:278
+#: admin/partials/easy-share-admin-display.php:300
+msgid "Choose Layout:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:282
+#: admin/partials/easy-share-admin-display.php:304
+msgid "Left"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:284
+#: admin/partials/easy-share-admin-display.php:306
+msgid "Center"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:286
+#: admin/partials/easy-share-admin-display.php:308
+msgid "Right"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:288
+#: admin/partials/easy-share-admin-display.php:310
+msgid "Choose a layout (right,left or center)."
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:295
+msgid "Choose layout to show on small devices:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:317
+msgid "Custom Style"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:317
+msgid "Customize your own style:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:323
+msgid "Color:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:335
+msgid "Choose Color:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:354
+msgid "1.0 Install:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:358
+msgid "How_to_install_a_plugin"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:362
+msgid "2.0 Display:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:365
+msgid "2.1 Display on front View:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:374
+msgid "Osclass Hooks"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:379
+msgid "2.2 Friendly URLs:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:386
+msgid "3.0 Custom Style:"
+msgstr ""
+
+#: admin/partials/easy-share-admin-display.php:396
+msgid "4.0 Help:"
+msgstr ""
+
+#: public/partials/easy-share-display.php:49
+#: public/partials/easy-share-display.php:82
+#: public/partials/easy-share-display.php:150
+#: public/partials/easy-share-display.php:183
+msgid "Share on Facebook"
+msgstr ""
+
+#: public/partials/easy-share-display.php:52
+#: public/partials/easy-share-display.php:85
+#: public/partials/easy-share-display.php:153
+#: public/partials/easy-share-display.php:186
+msgid "Share on Twitter"
+msgstr ""
+
+#: public/partials/easy-share-display.php:55
+#: public/partials/easy-share-display.php:88
+#: public/partials/easy-share-display.php:156
+#: public/partials/easy-share-display.php:189
+msgid "Share on Google Plus"
+msgstr ""
+
+#: public/partials/easy-share-display.php:58
+#: public/partials/easy-share-display.php:91
+#: public/partials/easy-share-display.php:159
+#: public/partials/easy-share-display.php:192
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: public/partials/easy-share-display.php:61
+#: public/partials/easy-share-display.php:94
+#: public/partials/easy-share-display.php:162
+#: public/partials/easy-share-display.php:195
+msgid "Share on Stumbleupon"
+msgstr ""
+
+#: public/partials/easy-share-display.php:64
+#: public/partials/easy-share-display.php:97
+#: public/partials/easy-share-display.php:165
+#: public/partials/easy-share-display.php:198
+msgid "Share on Pinterest"
+msgstr ""
+
+#: public/partials/easy-share-display.php:67
+#: public/partials/easy-share-display.php:100
+#: public/partials/easy-share-display.php:168
+#: public/partials/easy-share-display.php:201
+msgid "Share on Tumblr"
+msgstr ""
+
+#: public/partials/easy-share-display.php:70
+#: public/partials/easy-share-display.php:103
+#: public/partials/easy-share-display.php:171
+#: public/partials/easy-share-display.php:204
+msgid "Share on Email"
+msgstr ""
+
+#: public/partials/easy-share-display.php:73
+#: public/partials/easy-share-display.php:106
+#: public/partials/easy-share-display.php:174
+#: public/partials/easy-share-display.php:207
+msgid "Share on Whatsapp"
+msgstr ""
